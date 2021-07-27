@@ -33,7 +33,7 @@
 
 [대회 영상 3](https://youtu.be/VRm0IGDmIaM) ,  2018 제 34회 전 일본 마이크로로봇 경연대회 [[PDF]](./PDF/2018_일본 기록인증서.pdf)
 
-[대회 영상 4](https://www.youtube.com/watch?v=eTKhToyow0Y) ,  2018 제 21회 서울시립대 전국 라인트레이서 경연대회 [[PDF]](./2018_서울시립대학교_EXPERT부문_장려상.pdf)
+[대회 영상 4](https://www.youtube.com/watch?v=Q4lKWiu45iY) ,  2018 제 21회 서울시립대 전국 라인트레이서 경연대회 [[PDF]](./2018_서울시립대학교_EXPERT부문_장려상.pdf)
 
 [대회 영상 5](https://www.youtube.com/watch?v=kEDe5cqG3js) ,  2019 제 22회 서울시립대 전국 라인트레이서 경연대회 [[PDF]](./PDF/2019_서울시립대학교_ExpertDC부문_장려상.pdf)
 
