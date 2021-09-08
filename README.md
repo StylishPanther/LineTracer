@@ -52,7 +52,7 @@
 |Motor Drive|LMT18200T|[PDF](./PDF/LMT18200T.pdf)|  
 |Encoder|MR Encoder (225805)|[PDF](./PDF/EN-21-478.pdf)|
 |Regulator|LM2576|[PDF](./PDF/LM2576_datasheet.pdf)|
-
+|ROM|AT45DB011B-SI|[PDF](./PDF/AT45DB011B-SI.pdf)|
 
 ### 개발환경 
 
